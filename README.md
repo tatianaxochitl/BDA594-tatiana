@@ -1,2 +1,4 @@
 # BDA594-tatiana
-Repository for BDA 594 
+1. Tatiana Chavez
+2. https://blackboard.sdsu.edu/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_387168_1&handle=announcements_entry&mode=viewΩ
+3. Big Data is datasets too large to be processed or analyzed by conventional data analysis programs. 
